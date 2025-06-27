@@ -18,7 +18,7 @@ find . -type f -size 1033c ! -executable -exec file {} \; | grep "ASCII text"
 cat ./-file07
 ```
 Password Found
-4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+**4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw**
 
 What I Learned
 I learned how to:
