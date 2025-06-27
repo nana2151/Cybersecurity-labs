@@ -9,7 +9,7 @@ This time, the port I had to connect to required me to **provide the password an
 Logged in using:
 
 ```bash
-ssh bandit15@bandit.labs.overthewire.org -p 2220
+ssh bandit15@bandit.labs.overthewire.org -p 2220 
 ```
 
 Password used:
