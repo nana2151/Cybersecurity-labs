@@ -18,13 +18,13 @@ find / -user bandit6 -group bandit6 -size 33c 2>/dev/null
 cat /path/to/found/file
 
 ```
-### Password found 
+ Password found 
 **HWasnPhtq9AVKe0dmk45nxy20cvUa6EG**
 
-### What I Learned
+What I Learned
 This level helped reinforce my knowledge of the find command, especially:
 -How to search by owner and group
 -How to filter by exact file size
 -How to suppress errors using 2>/dev/null
----
+
 It’s a skill that’s extremely useful when analyzing file systems.
